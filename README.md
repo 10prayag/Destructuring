@@ -1,0 +1,2 @@
+# Destructuring
+destructuring array
